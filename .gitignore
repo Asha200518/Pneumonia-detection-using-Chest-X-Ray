@@ -1,0 +1,3 @@
+venv/
+Datasets/
+pneumonia_model.h5
