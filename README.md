@@ -57,6 +57,6 @@ python predict.py --image path/to/your/xray.jpg
 ## Sample Prediction
 Here is an example of the model predicting a result from a chest X-ray:
 
-![Sample Prediction](sample prediction.png)
+![Sample Prediction](sample prediction.png) ----> https://github.com/Asha200518/Pneumonia-detection-using-Chest-X-Ray/blob/main/sample%20prediction.png
 
 
